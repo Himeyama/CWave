@@ -1,5 +1,5 @@
 CC = g++
-SOURCE = cwave.c
+SOURCE = cwave.cpp
 PROGRAM = cwave
 
 $(PROGRAM): $(SOURCE)
